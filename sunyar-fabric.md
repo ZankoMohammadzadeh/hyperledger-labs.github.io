@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sunyar
-[//]: # (parent: Labs)
+parent: Labs
 ---
 # Lab Name
 POLWINNO Innovation Center 
